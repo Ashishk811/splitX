@@ -1,0 +1,109 @@
+body { 
+  background:black; 
+  color:white; 
+}
+
+/* Sidebar */
+.sidebar {
+  height:100vh;
+  position:fixed; 
+  top:0; 
+  left:0;
+  background:#000;
+  border-right:2px solid #9b5cf6 !important;
+}
+
+.sidebar-item {
+  display:flex; 
+  align-items:center;
+  padding:10px; 
+  border-radius:6px;
+  color:white; 
+  text-decoration:none;
+}
+
+.sidebar-item:hover {
+  background:#9b5cf6; 
+  color:black !important;
+}
+
+.logout-box {
+  position:absolute; 
+  bottom:20px; 
+  width:100%; 
+  padding:10px;
+}
+
+/* Page layout */
+.page {
+  margin-left:250px; 
+  padding:25px; 
+  color:#9b5cf6;
+}
+
+/* Accent text */
+.text-neon { 
+  color:#9b5cf6 !important; 
+  font-weight:bold;
+}
+
+/* Buttons */
+.btn-success {
+  background:#9b5cf6; 
+  border:none; 
+  color:black; 
+  font-weight:bold;
+}
+.btn-primary {
+  background:#9b5cf6 !important; 
+  border:none !important; 
+  color:black !important; 
+  font-weight:bold;
+}
+
+/* Cards */
+.card { 
+  border:1px solid #9b5cf6; 
+  background:#111; 
+  border-radius:12px;
+}
+
+/* Inputs */
+input, select, textarea { 
+  background:#222 !important; 
+  color:#9b5cf6 !important; 
+  border:1px solid #9b5cf6 !important; 
+}
+
+/* Placeholder color */
+::placeholder {
+  color:#9b5cf6 !important;
+  opacity:0.6;
+}
+
+/* Password icon button */
+.input-group-text {
+  background:#222 !important;
+  border:1px solid #9b5cf6 !important;
+  color:#9b5cf6 !important;
+  cursor:pointer;
+}
+
+/* On hover focus */
+input:focus {
+  outline:none !important;
+  border-color:#b780ff !important;
+  box-shadow:0 0 5px #9b5cf6;
+}
+
+
+.list-group-item span,
+.list-group-item small {
+  color:#39ff14 !important;
+  font-weight:bold;
+}
+
+h1, h4, h3,h5, label{
+   color: white;
+}
+
