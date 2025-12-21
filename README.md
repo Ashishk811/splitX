@@ -23,7 +23,7 @@ frontend/ \# React Vite UI
 -   Open the extracted folder.
 
 ### 2️⃣ Backend Setup
-Go into the backend folder: cd backend
+Go into the backend folder
 
 Create a `.env` file inside `backend/` and add:
 
@@ -44,7 +44,8 @@ Windows Steps: 1. Visit MongoDB Community download page. 2. Install with
 default settings. 3. MongoDB runs on port 27017.
 
 ### 4️⃣ Run Backend
-npm install npm start
+cd backend/ npm install npm start
 
 ### 5️⃣ Run Frontend
-cd ../frontend npm install npm run dev
+open new terminal
+cd frontend/ npm install npm run dev
