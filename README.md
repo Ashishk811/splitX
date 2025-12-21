@@ -37,7 +37,7 @@ SERVICE="gmail"
 HOST=smtp.gmail.com
 EMAIL_PORT=587 
 SECURE=false 
-OPENAI_API_KEY='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'
+OPENAI_API_KEY=follow link for get the test api key https://docs.google.com/document/d/1HHgN2eHOp4hldQ7gvXyZuSastErJLvRlZ9C9_h34eyM/edit?usp=drive_link
 
 ### 3️⃣ Install MongoDB (Easy Steps)
 Windows Steps: 1. Visit MongoDB Community download page. 2. Install with
