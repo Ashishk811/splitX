@@ -1,5 +1,5 @@
 # splitX
-A AI based full-stack MERN application to manage group and individual expenses,
+An AI-based full-stack MERN application to manage group and individual expenses,
 create settlements, and track who owes whom.
 
 ## 🚀 Features
